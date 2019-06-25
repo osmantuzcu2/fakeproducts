@@ -1,7 +1,7 @@
 {
   "products":[
-    { "id": "1","Name": "Samsung Galaxy M10 16 GB (Samsung Türkiye Garantili)", "Price" : "1824", "Picture": "https://productimages.hepsiburada.net/s/26/400-592/10143349538866.jpg"},
-    { "id": "2","Name": "Samsung Galaxy A50 2019 64 GB (Samsung Türkiye Garantili)", "Price" : "2600", "Picture": "https://productimages.hepsiburada.net/s/25/400-592/10126757396530.jpg"},
-    { "id": "3","Name": "Xiaomi Redmi Note 7 64 GB (Xiaomi Türkiye Garantili)", "Price" : "2800", "Picture": "https://productimages.hepsiburada.net/s/26/400-592/10134656876594.jpg"}
+    { "id": "1","Name": "Samsung Galaxy M10 16 GB (Samsung Türkiye Garantili)", "Price" : "1824", "Picture": "https://restcountries.eu/data/tur.svg"},
+    { "id": "2","Name": "Samsung Galaxy A50 2019 64 GB (Samsung Türkiye Garantili)", "Price" : "2600", "Picture": "https://restcountries.eu/data/ala.svg"},
+    { "id": "3","Name": "Xiaomi Redmi Note 7 64 GB (Xiaomi Türkiye Garantili)", "Price" : "2800", "Picture": "https://restcountries.eu/data/ala.svg"}
   ]
 }
