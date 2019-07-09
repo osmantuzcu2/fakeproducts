@@ -1,7 +1,7 @@
 {
   "products":[
-    { "id": "1","Name": "Defacto Kadın Omuz Dekolteli Desenli Elbise", "Price" : "182", "Picture": "https://productimages.hepsiburada.net/l/28/552/10237181329458.jpg"},
-    { "id": "2","Name": "Koton V Yaka Elbise", "Price" : "260", "Picture": "https://productimages.hepsiburada.net/l/27/552/10187515920434.jpg"},
-    { "id": "3","Name": "Koton Desenli Elbise", "Price" : "280", "Picture": "https://productimages.hepsiburada.net/l/27/552/10187433443378.jpg"}
+    { "id": "1","Name": "Defacto Kadın Omuz Dekolteli Desenli Elbise", "Price" : "182", "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/68/2507024/1/2018000216565_1_org_zoom.jpg"},
+    { "id": "2","Name": "Koton V Yaka Elbise", "Price" : "260", "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/66/6638735/1/2019061100852_1_org_zoom.jpg"},
+    { "id": "3","Name": "Koton Desenli Elbise", "Price" : "280", "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/68/4636225/1/2019100200260_1_org_zoom.jpg"}
   ]
 }
