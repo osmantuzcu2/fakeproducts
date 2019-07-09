@@ -1,7 +1,7 @@
 {
   "products":[
-    { "id": "1","Name": "Samsung Galaxy M10 16 GB (Samsung Türkiye Garantili)", "Price" : "1824", "Picture": "https://productimages.hepsiburada.net/s/25/200/10120914501682.jpg"},
-    { "id": "2","Name": "Samsung Galaxy A50 2019 64 GB (Samsung Türkiye Garantili)", "Price" : "2600", "Picture": "https://productimages.hepsiburada.net/s/5/200/9699882827826.jpg"},
-    { "id": "3","Name": "Xiaomi Redmi Note 7 64 GB (Xiaomi Türkiye Garantili)", "Price" : "2800", "Picture": "https://productimages.hepsiburada.net/s/5/200/9699882827826.jpg"}
+    { "id": "1","Name": "Defacto Kadın Omuz Dekolteli Desenli Elbise", "Price" : "1824", "Picture": "https://productimages.hepsiburada.net/l/28/552/10237181329458.jpg"},
+    { "id": "2","Name": "Koton V Yaka Elbise", "Price" : "2600", "Picture": "https://productimages.hepsiburada.net/l/27/552/10187515920434.jpg"},
+    { "id": "3","Name": "Koton Desenli Elbise", "Price" : "2800", "Picture": "https://productimages.hepsiburada.net/l/27/552/10187433443378.jpg"}
   ]
 }
