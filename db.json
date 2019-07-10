@@ -6,7 +6,17 @@
      "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/68/2507024/1/2018000216565_1_org_zoom.jpg",
      "Avatar": "https://pickaface.net/gallery/avatar/20160625_050020_889_FAKE.png"
     },
-    { "id": "2","Name": "Koton V Yaka Elbise", "Price" : "260", "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/66/6638735/1/2019061100852_1_org_zoom.jpg"},
-    { "id": "3","Name": "Koton Desenli Elbise", "Price" : "280", "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/68/4636225/1/2019100200260_1_org_zoom.jpg"}
+    { "id": "2",
+     "Name": "Koton V Yaka Elbise", 
+     "Price" : "260", 
+     "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/66/6638735/1/2019061100852_1_org_zoom.jpg",
+     "Avatar": "https://pickaface.net/gallery/avatar/20120409_230759_3646_Fake.png"
+    },
+    { "id": "3",
+     "Name": "Koton Desenli Elbise", 
+     "Price" : "280", 
+     "Picture": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/68/4636225/1/2019100200260_1_org_zoom.jpg",
+     "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeRjNMGtW-4pgNqbc3qidsSGSVQCkpz7BcRn-AvO1RhZdMmmq"
+    }
   ]
 }
